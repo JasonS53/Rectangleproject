@@ -10,3 +10,15 @@ C:\Users\jms_s\source\repos\Rectangleproject\Rectangleproject\obj\Debug\netcorea
 C:\Users\jms_s\source\repos\Rectangleproject\Rectangleproject\obj\Debug\netcoreapp3.1\Rectangleproject.dll
 C:\Users\jms_s\source\repos\Rectangleproject\Rectangleproject\obj\Debug\netcoreapp3.1\Rectangleproject.pdb
 C:\Users\jms_s\source\repos\Rectangleproject\Rectangleproject\obj\Debug\netcoreapp3.1\Rectangleproject.genruntimeconfig.cache
+C:\Users\Jeo\Desktop\New folder (5)\Jason\Rectangleproject\Rectangleproject\bin\Debug\netcoreapp3.1\Rectangleproject.exe
+C:\Users\Jeo\Desktop\New folder (5)\Jason\Rectangleproject\Rectangleproject\bin\Debug\netcoreapp3.1\Rectangleproject.deps.json
+C:\Users\Jeo\Desktop\New folder (5)\Jason\Rectangleproject\Rectangleproject\bin\Debug\netcoreapp3.1\Rectangleproject.runtimeconfig.json
+C:\Users\Jeo\Desktop\New folder (5)\Jason\Rectangleproject\Rectangleproject\bin\Debug\netcoreapp3.1\Rectangleproject.runtimeconfig.dev.json
+C:\Users\Jeo\Desktop\New folder (5)\Jason\Rectangleproject\Rectangleproject\bin\Debug\netcoreapp3.1\Rectangleproject.dll
+C:\Users\Jeo\Desktop\New folder (5)\Jason\Rectangleproject\Rectangleproject\bin\Debug\netcoreapp3.1\Rectangleproject.pdb
+C:\Users\Jeo\Desktop\New folder (5)\Jason\Rectangleproject\Rectangleproject\obj\Debug\netcoreapp3.1\Rectangleproject.AssemblyInfoInputs.cache
+C:\Users\Jeo\Desktop\New folder (5)\Jason\Rectangleproject\Rectangleproject\obj\Debug\netcoreapp3.1\Rectangleproject.AssemblyInfo.cs
+C:\Users\Jeo\Desktop\New folder (5)\Jason\Rectangleproject\Rectangleproject\obj\Debug\netcoreapp3.1\Rectangleproject.csproj.CoreCompileInputs.cache
+C:\Users\Jeo\Desktop\New folder (5)\Jason\Rectangleproject\Rectangleproject\obj\Debug\netcoreapp3.1\Rectangleproject.dll
+C:\Users\Jeo\Desktop\New folder (5)\Jason\Rectangleproject\Rectangleproject\obj\Debug\netcoreapp3.1\Rectangleproject.pdb
+C:\Users\Jeo\Desktop\New folder (5)\Jason\Rectangleproject\Rectangleproject\obj\Debug\netcoreapp3.1\Rectangleproject.genruntimeconfig.cache
