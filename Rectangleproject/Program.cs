@@ -16,6 +16,7 @@ namespace Rectangleproject
             double parameter = (L * 2) + (W * 2);
             Console.WriteLine("The area of the rectangle is " + area + " and the parameter is " + parameter + ".");
             Console.WriteLine("The program has ended");
+            Console.WriteLine("The program edited twice");
         }
     }
 }
